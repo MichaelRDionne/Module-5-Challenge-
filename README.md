@@ -53,6 +53,13 @@ $ pip install notebook
   ```
 $ pip install python-dotenv
 ```
+  - ### from dotenv import load_dotenv
+```
+  load_dotenv()  # take environment variables from .env.
+
+  # Code of your application, which uses environment variables (e.g. from `os.environ` or
+  # `os.getenv`) as if they came from the actual environment.
+  ```
 ### 3. To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
 ```
 $ import pandas
@@ -76,9 +83,13 @@ $ pip install mathplotlib
 ### Basic Plot
 [![Basic Plot](https://matplotlib.org/stable/_images/sphx_glr_plot_001.png)](https://matplotlib.org/stable/plot_types/basic/plot.html#sphx-glr-plot-types-basic-plot-py)
 
-### Box Plot
-[![Box Plot](https://matplotlib.org/stable/_images/sphx_glr_boxplot_plot_001.png)](https://matplotlib.org/stable/plot_types/stats/boxplot_plot.html)
+### Hist Plot
+[![Hist Plot](https://matplotlib.org/stable/_images/sphx_glr_hist_plot_001.png)](https://matplotlib.org/stable/plot_types/stats/hist_plot.html)
 
+### Pie Plot
+[![Pie Plot](https://matplotlib.org/stable/_images/sphx_glr_pie_001.png)]
+(https://matplotlib.org/stable/plot_types/stats/pie.html)
+ 
 ---
 ## Contributors
 
