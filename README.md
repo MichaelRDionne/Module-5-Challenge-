@@ -1,20 +1,21 @@
-# Module-5-Challenge-
-https://pypi.org/project/python-dotenv/
+# Module-5-Challenge
 
 ## Financial Analysis Tools for Emergencies & for Retirement: (MonteCarlo Simulations)
 ---
 
 ![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg)
 
-### I'm a quantitative analyst for a FinTech investing platform. 
-### I want to offer clients a one-stop investment option.  
-### I will use algorithms that will offer a wide range of investment styles and options.
-### I will determine the fund with the most investment potential based on : 
-  - ### Daily Returns
-  - ### Standard deviations
-  - ### Sharpe Ratios
-  - ### Betas
-
+### Analyst for a FinTech consulting firm. 
+### Ability to evaluate financial health with 2 financial analysis tools:
+  - ### Emergencies
+  - ### Retirement
+  
+### Emergency planning will evaluate current savings and determine if emergency fund is possible.
+### Retirement planning will use Monte Carlo simulations. 
+  - ### ALPACA API call via ALPACA SDK for accurate historical pricing
+  - ### 60/40 stock-bond weight simluations over 30 years
+  - ### 80/20 stock-bond weight simulations over 10 years 
+ 
 
 ---
 
@@ -27,8 +28,8 @@ https://pypi.org/project/python-dotenv/
 
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-
+[<img alt="DjangoREST" src="https://img.shields.io/badge/PyPI-dotenv-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://pypi.org/project/python-dotenv/)
+  
 [<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DigitalGoldRush?tab=repositories)
@@ -66,7 +67,8 @@ $ import pandas
 ```
 $ pip install mathplotlib
 ```
-
+https://pypi.org/project/python-dotenv/
+  
 ---
 
 ## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
