@@ -69,7 +69,6 @@ $ import pandas
 $ pip install mathplotlib
 ```
 
-  
 ---
 
 ## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
@@ -87,9 +86,8 @@ $ pip install mathplotlib
 [![Hist Plot](https://matplotlib.org/stable/_images/sphx_glr_hist_plot_001.png)](https://matplotlib.org/stable/plot_types/stats/hist_plot.html)
 
 ### Pie Plot
-[![Pie Plot](https://matplotlib.org/stable/_images/sphx_glr_pie_001.png)]
-(https://matplotlib.org/stable/plot_types/stats/pie.html)
- 
+[![Pie Plot](https://matplotlib.org/stable/_images/sphx_glr_pie_001.png)](https://matplotlib.org/stable/plot_types/stats/pie.html)
+  
 ---
 ## Contributors
 
